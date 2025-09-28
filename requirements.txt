@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+joblib
+mlflow
+optuna
+datasets
+huggingface_hub
+shap
+imbalanced-learn
+lightgbm
+seaborn
+matplotlib
+streamlit
+evidently
+pyngrok
